@@ -1,0 +1,2 @@
+export FOOD2FORK_KEY=6bc1cd99ad8db8a97905b89e0c7ad038
+rspec
